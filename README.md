@@ -1,9 +1,9 @@
 
-<h1 style=" color:green; text-alignt:center "> 
+<h1 style=" color:green; text-align:center "> 
 	Ejemplos de código en Python 
 </h1>
----
-## Anthony de los Santos
+
+Anthony de los Santos
 
 <p> Lista con los ejemplos: </p>
 <ul>
