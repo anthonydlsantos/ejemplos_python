@@ -1,10 +1,12 @@
 
-# Ejemplos de código en Python 
+<h1 style=" color:green; text-alignt:center "> 
+	Ejemplos de código en Python 
+</h1>
 ---
 ## Anthony de los Santos
 
-- Lista: 
-	. Web Scraping con bs4
-	. Métodos para busqueda de soluciones de funciones de un
-          variable. (Curso de Programación en Facultad )
-
+<p> Lista con los ejemplos: </p>
+<ul>
+	<li> Web Scraping con bs4 </li>
+	<li> Métodos Newton, raphson para busqueda de soluciones en f(x) </li>
+</ul>
