@@ -1,12 +1,9 @@
-
-# Ejemplos de código en Python 
+## Ejemplos Python. 
 ---
-## Anthony de los Santos
+#### Anthony de los Santos
+	#### Lista:
+		. Web scraping con bs4
+		. Data Visualization
 
-- Lista: 
-	. Web Scraping con bs4
-	. Data visualization I: Energy
-	. __ Regresión Lineal 
-      
-  
+
 
