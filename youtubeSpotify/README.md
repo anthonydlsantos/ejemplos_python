@@ -10,6 +10,9 @@ La idea del trabajo es, tener una visualización del Top 10 en Views, Top 10 en 
 *datos actualizados al 07/02/2023.*
 
 
+Link para notebook en Colab: https://colab.research.google.com/drive/1UI3UWTk4-W8QtSG0oD_t-O0FZ11WDSCG?usp=sharing 
+
+
 ---
 
 Anthony de los Santos. 
