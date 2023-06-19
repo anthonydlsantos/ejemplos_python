@@ -11,7 +11,7 @@ La idea del trabajo es obtener información sobre los casos de Covid-19 en Ameri
     datos y filtrar según los paises en cuestión. <br>
     
  
-Link para notebook en colab: ... 
+Link para notebook en colab: https://colab.research.google.com/drive/1xkj8Bf5Hnu8ifq9btLc7dLxAbezIg46F?usp=sharing 
    
 
 --- 
