@@ -9,6 +9,7 @@ Anthony de los Santos.
 
 
 #### Lista de los ejemplos/ejercicios:
+		. Youtube & Spotify (Top 10)
 		. Web scraping con bs4
 		. Data Visualization
 
