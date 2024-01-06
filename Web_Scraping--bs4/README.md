@@ -14,6 +14,10 @@ La idea del trabajo es obtener información sobre los casos de Covid-19 en Ameri
 Link para notebook en colab: https://colab.research.google.com/drive/1xkj8Bf5Hnu8ifq9btLc7dLxAbezIg46F?usp=sharing 
    
 
+- Se agrega visualización en Power BI. 
+
+![alt text](https://raw.githubusercontent.com/anthonydlsantos/ejemplos_python/master/Web_Scraping--bs4/covidLatam_powerBI.png)
+
 --- 
 
 *Si tiene cualquier crítica o comentario enviar un correo, agregdelossantos@gmail.com*
