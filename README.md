@@ -5,13 +5,15 @@ Anthony de los Santos.
 
 ---
 #### Ultimo Proyecto Práctico: 
-		. Análisis de datos: Gasto Público Social, Presupuesto Nacional 2015-2018. 
+		. Proyecto de curso IBM Data Analyst. 
 
 
 #### Lista de los ejemplos/ejercicios:
+		. Análisis de datos: Gasto Público Social, Presupuesto Nacional 2015-2018. 
 		. Youtube & Spotify (Top 10)
-		. Web scraping con bs4
-		. Data Visualization
+		. Web scraping con bs4 ( Visualización en Power BI )
+		. Data Visualization; Python
+ 	
 
 ---
 Se agradece cualquier comentario o crítica sobre los ejercicios/proyectos que aquí se presentan. 
